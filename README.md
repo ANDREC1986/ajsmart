@@ -1,2 +1,0 @@
-# ajsmart
-Website AJ

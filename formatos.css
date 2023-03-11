@@ -1,0 +1,48 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color:azure;
+    color: black;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction:column;
+}
+
+p {
+    margin: 5px;
+    padding: 0;
+}
+
+.brand{
+    display: inline-flex;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex: auto;
+}
+
+.in-line{
+    display: inline;
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+footer{
+    background-color: rgb(0, 9, 37);
+    color: white;
+    min-height: 25px;
+    text-align: center;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
